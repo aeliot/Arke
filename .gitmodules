@@ -4,3 +4,6 @@
 [submodule "iOS"]
 	path = iOS
 	url = https://github.com/JGets/Arke-iOS.git
+[submodule "android"]
+	path = android
+	url = git@github.com:aeliot/Arke-Android.git
