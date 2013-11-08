@@ -1,6 +1,6 @@
 Arke
 ====
-Arke is a schedule optimizing mobile application.
+Arke is a schedule optimizing mobile application, developed by Adam Eliot, Jack Gettings, and Bobby Chan for the 2013 Dreamforce Hackathon
 The concept: I have n amount of time to get from point X to point Y, find me the path that maximizes the number of contacts/clients I can visit on the way.  
 
 On top of this simple core concept, several additional features can easily be implemented, such as:
