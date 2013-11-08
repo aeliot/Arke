@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:aeliot/Arke-Server.git
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/JGets/Arke-ios.git
