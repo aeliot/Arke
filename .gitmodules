@@ -3,4 +3,4 @@
 	url = git@github.com:aeliot/Arke-Server.git
 [submodule "iOS"]
 	path = iOS
-	url = https://github.com/JGets/Arke-ios.git
+	url = https://github.com/JGets/Arke-iOS.git
