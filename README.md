@@ -1,6 +1,6 @@
 Arke
 ====
-Arke is a schedule optimizing mobile application, developed by [Adam Eliot](http://adam.eliot.ca), [Jack Gettings](http://www.JGets.com), and [Bobby Chan](http://www.bobbychanlog.com) for the 2013 Dreamforce Hackathon.
+Arke is a schedule optimizing mobile application, developed by [Adam Eliot](http://adam.eliot.ca), [Jack Gettings](http://www.JGets.com), and [Bobby Chan](http://www.bobbychanblog.com) for the 2013 Dreamforce Hackathon.
 
 Concept
 ---
