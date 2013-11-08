@@ -2,6 +2,8 @@ Arke
 ====
 Arke is a schedule optimizing mobile application, developed by [Adam Eliot](http://adam.eliot.ca), [Jack Gettings](http://www.JGets.com), and [Bobby Chan](http://www.bobbychanblog.com) for the 2013 Dreamforce Hackathon.
 
+This repository is mainly for documentation, with the individual components \(server, android, iOS\) housed in their own repositories.
+
 Concept
 ---
 I have n amount of time to get from point X to point Y, find me the path that maximizes the number of contacts/clients I can visit on the way.  
